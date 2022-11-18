@@ -1,4 +1,4 @@
-# Process injection
+# Process hollowing
 
 Simple script to automate creating a powershell script that injects shellcode into a new `svchost` process.
 
